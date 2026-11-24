@@ -1,0 +1,10 @@
+{
+  "name": "pfstack",
+  "version": "0.1.0",
+  "description": "Pedro Filho's agent setup: skills, global rules, hooks, and configs for Claude Code, Codex, and Cursor.",
+  "author": { "name": "Pedro Filho", "url": "https://github.com/pedroapfilho" },
+  "homepage": "https://github.com/pedroapfilho/pfstack",
+  "repository": "https://github.com/pedroapfilho/pfstack",
+  "license": "MIT",
+  "keywords": ["pfstack", "skills", "workflow", "agents", "claude-code", "codex"]
+}

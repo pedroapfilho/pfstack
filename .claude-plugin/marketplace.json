@@ -1,0 +1,11 @@
+{
+  "name": "pfstack",
+  "owner": { "name": "Pedro Filho", "url": "https://github.com/pedroapfilho" },
+  "plugins": [
+    {
+      "name": "pfstack",
+      "source": "./",
+      "description": "Pedro Filho's agent setup: skills, global rules, hooks, and configs for Claude Code, Codex, and Cursor."
+    }
+  ]
+}

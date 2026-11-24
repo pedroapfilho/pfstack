@@ -1,0 +1,17 @@
+# ~/.codex/config.toml (sanitized). Codex goes through the local CLIProxyAPI/VibeProxy, same as Claude Code.
+model = "gpt-6.1-sol"
+model_reasoning_effort = "medium"
+model_provider = "vibeproxy"
+
+[model_providers.vibeproxy]
+name = "VibeProxy"
+base_url = "http://127.0.0.1:8318/v1"
+wire_api = "responses"
+http_headers = { "X-Api-Key" = "<an api-key from your proxy config>" }
+
+[features]
+hooks = true
+
+# Codex needs absolute paths here.
+[projects."/Users/<you>/dev"]
+trust_level = "trusted"

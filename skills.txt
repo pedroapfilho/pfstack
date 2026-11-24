@@ -1,0 +1,18 @@
+# External skills pfstack depends on, installed with `npx skills add <source> -g --skill <name>...`
+# Format: <github source> <skill> [<skill>...]
+AgentMemoryRepo/agentmemoryrepo agent-memory-repo
+ayghri/i-have-adhd i-have-adhd
+caldoai/skills untangle-codebase
+cloudflare/cloudflare-docs eli5
+cursor/plugins thermo-nuclear-code-quality-review
+dietrichgebert/ponytail ponytail
+humanlayer/skills show-me
+juliusbrussee/caveman caveman
+mattpocock/skills wait-what teach improve-codebase-architecture grilling grill-me codebase-design wayfinder handoff
+pbakaus/impeccable impeccable
+petergyang/no-ai-slop no-ai-slop
+shadcn/improve improve
+t3dotgg/tstack council
+vercel-labs/agent-browser agent-browser
+vercel-labs/agent-desktop agent-desktop
+vercel-labs/skills find-skills

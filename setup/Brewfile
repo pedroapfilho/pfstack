@@ -1,0 +1,23 @@
+# Formulae
+brew "agent-browser"
+brew "codex"
+brew "ffmpeg"
+brew "gemini-cli"
+brew "gh"
+brew "git-lfs"
+brew "git-xet"
+brew "go"
+brew "jq"
+brew "neovim"
+brew "ripgrep"
+brew "sshs"
+brew "uv"
+brew "zoxide"
+
+# Casks
+cask "1password-cli"
+cask "orbstack"
+cask "claude-code"
+cask "monitorcontrol"
+cask "tor-browser"
+cask "zed"
